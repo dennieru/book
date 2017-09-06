@@ -1,1 +1,3 @@
 A set of reusable GraphQL components for Clojure conforming to the data structures given 
+
+Convert GraphQL to IQueryable
